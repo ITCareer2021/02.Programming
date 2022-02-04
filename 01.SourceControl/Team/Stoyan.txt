@@ -1,0 +1,4 @@
+name: Stoyan Dimitrov
+github user: Stoyan05
+на кирилица: Стоян Димитров
+github page: https://github.com/Stoyan05
