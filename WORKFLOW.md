@@ -18,19 +18,19 @@
 |../celochisleniSwap| Y | Elit0o |
 |../celochisleniDecToHexBin| Y | Elit0o |
 |../celochisleniDelenie| Y | Elit0o |
-|../realniCommaFlow|
+|../realniCommaFlow| wip | TsDafov
 |../realniCircle| Y | Elit0o |
 |../realniSuma|
 |../realniRectangle|
 |../realniSpeed|
 |../preobrazuvaneAsansior| Y | Elit0o |
 |../preobrazuvaneSpecialni|
-|../preobrazuvaneBulevi|
+|../preobrazuvaneBulevi| wip | TsDafov
 |../preobrazuvaneTroiki|
 |../textobjectGreeting|
 |../textobjectNizChar|
 |../textobjectNizObject|
-|../textobjectObrushtane|
+|../textobjectObrushtane| wip | TsDafov
 |../textobjectSlujitel|
 |../textobjectPiramida|
 | 04.MasiviSpisuci|wip
