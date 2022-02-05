@@ -30,7 +30,7 @@
 |../textobjectGreeting| wip| Kaloyan |
 |../textobjectNizChar| wip | martin-slavov
 |../textobjectNizObject|
-|../textobjectObrushtane| wip | TsDafov
+|../textobjectObrushtane| Y | TsDafov
 |../textobjectSlujitel| wip | Kaloyan |
 |../textobjectPiramida|
 |../dopDevet(...)| 
