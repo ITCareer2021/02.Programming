@@ -13,6 +13,11 @@
 |../predstavqneDvucifreni
 | 03.TipoveDanni|wip
 |../celochisleniVekoveMinuti| Y | Elit0o |
+|../celochisleniCeli| Y | Elit0o |
+|../celochisleniHexVar| Y | Elit0o |
+|../celochisleniSwap| Y | Elit0o |
+|../celochisleniDecToHexBin| Y | Elit0o |
+|../celochisleniDelenie| Y | Elit0o |
 | 04.MasiviSpisuci|wip
 |../
 | 05.Debugging|wip
