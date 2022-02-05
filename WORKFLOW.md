@@ -7,7 +7,7 @@
 | 02.BroiniSistemi |wip|
 |../aritmetikaBin| Y | TsDafov, Kaloyan |
 |../aritmetikaHex| Y | TsDafov |
-|../predstavqnePreminavane
+|../predstavqnePreminavane| Y | Elit0o |
 |../predstavqneNaiMalkoNaiGolqmo
 |../predstavqneIzvajdaneDvoichno
 |../predstavqneDvucifreni
