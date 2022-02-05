@@ -15,7 +15,7 @@
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
 |../celochisleniCeli| Y | Elit0o, Aneliya05 |
 |../celochisleniHexVar| Y | Elit0o, Aneliya05 |
-|../celochisleniSwap| Y | Elit0o |
+|../celochisleniSwap| Y | Elit0o, Aneliya05 |
 |../celochisleniDecToHexBin| Y | Elit0o |
 |../celochisleniDelenie| Y | Elit0o |
 |../realniCommaFlow| Y | TsDafov, Elit0o, Aneliya05|
