@@ -25,7 +25,7 @@
 |../realniSpeed| wip | Elit0o
 |../preobrazuvaneAsansior| Y | Elit0o |
 |../preobrazuvaneSpecialni| Y | Kaloyan |
-|../preobrazuvaneBulevi| wip | TsDafov
+|../preobrazuvaneBulevi| Y | TsDafov
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| wip| Kaloyan |
 |../textobjectNizChar| wip | martin-slavov
