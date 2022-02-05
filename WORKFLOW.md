@@ -39,8 +39,8 @@
 |../rabotaMasiviStatistika| Y | ShemetW |
 |../rabotaMasiviSreshtanoChislo|
 |../rabotaMasiviCharIndeks|
-|../rabotaMasivMasivChislo|
-|../rabotaMasiviReverseElement|
+|../rabotaMasivMasivChislo| wip | TsDafov
+|../rabotaMasiviReverseElement| wip | TsDafov
 |../rabotaMasiviReverseString|
 |../rabotaMasiviReverseSum|
 |../rabotaMasiviSguniISuberi|
