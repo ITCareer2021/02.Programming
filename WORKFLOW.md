@@ -20,9 +20,9 @@
 |../celochisleniDelenie| Y | Elit0o |
 |../realniCommaFlow| wip | TsDafov
 |../realniCircle| Y | Elit0o |
-|../realniSuma|
-|../realniRectangle|
-|../realniSpeed|
+|../realniSuma| wip | Elit0o
+|../realniRectangle| wip | Elit0o
+|../realniSpeed| wip | Elit0o
 |../preobrazuvaneAsansior| Y | Elit0o |
 |../preobrazuvaneSpecialni|
 |../preobrazuvaneBulevi| wip | TsDafov
