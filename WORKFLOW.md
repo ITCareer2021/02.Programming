@@ -28,7 +28,7 @@
 |../preobrazuvaneBulevi| wip | TsDafov
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| wip| Kaloyan |
-|../textobjectNizChar|
+|../textobjectNizChar| wip | martin-slavov
 |../textobjectNizObject|
 |../textobjectObrushtane| wip | TsDafov
 |../textobjectSlujitel| wip | Kaloyan |
