@@ -33,6 +33,8 @@
 |../textobjectObrushtane| wip | TsDafov
 |../textobjectSlujitel| wip | Kaloyan |
 |../textobjectPiramida|
+|../dopDevet(...)| 
+|../dopDvadetset(...)|
 | 04.MasiviSpisuci|wip
 |../
 | 05.Debugging|wip
