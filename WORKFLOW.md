@@ -20,7 +20,7 @@
 |../celochisleniDelenie| Y | Elit0o |
 |../realniCommaFlow| Y | TsDafov, Elit0o|
 |../realniCircle| Y | Elit0o |
-|../realniSuma| wip | Aneliya05 |
+|../realniSuma| Y | Aneliya05 |
 |../realniRectangle| wip | Aneliya05 |
 |../realniSpeed| wip | Aneliya05|
 |../preobrazuvaneAsansior| Y | Elit0o |
