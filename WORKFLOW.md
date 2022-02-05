@@ -14,7 +14,7 @@
 | 03.TipoveDanni|wip
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
 |../celochisleniCeli| Y | Elit0o, Aneliya05 |
-|../celochisleniHexVar| Y | Elit0o |
+|../celochisleniHexVar| Y | Elit0o, Aneliya05 |
 |../celochisleniSwap| Y | Elit0o |
 |../celochisleniDecToHexBin| Y | Elit0o |
 |../celochisleniDelenie| Y | Elit0o |
