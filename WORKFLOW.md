@@ -29,7 +29,7 @@
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| wip| Kaloyan |
 |../textobjectNizChar| wip | martin-slavov
-|../textobjectNizObject| wip | TsDafov
+|../textobjectNizObject| Y | TsDafov
 |../textobjectObrushtane| Y | TsDafov
 |../textobjectSlujitel| wip | Kaloyan |
 |../textobjectPiramida| wip | TsDafov
