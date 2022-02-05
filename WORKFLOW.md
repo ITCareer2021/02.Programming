@@ -12,7 +12,7 @@
 |../predstavqneIzvajdaneDvoichno
 |../predstavqneDvucifreni
 | 03.TipoveDanni|wip
-|../
+|../vekoveMinuti| Y | Elit0o |
 | 04.MasiviSpisuci|wip
 |../
 | 05.Debugging|wip
