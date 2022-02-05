@@ -18,13 +18,13 @@
 |../celochisleniSwap| Y | Elit0o |
 |../celochisleniDecToHexBin| Y | Elit0o |
 |../celochisleniDelenie| Y | Elit0o |
-|../realniCommaFlow| Y | TsDafov
+|../realniCommaFlow| Y | TsDafov, Elit0o |
 |../realniCircle| Y | Elit0o |
 |../realniSuma| wip | Elit0o
 |../realniRectangle| wip | Elit0o
 |../realniSpeed| wip | Elit0o
 |../preobrazuvaneAsansior| Y | Elit0o |
-|../preobrazuvaneSpecialni| Y | Kaloyan |
+|../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o |
 |../preobrazuvaneBulevi| wip | TsDafov
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| wip| Kaloyan |
