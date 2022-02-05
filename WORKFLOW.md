@@ -18,6 +18,11 @@
 |../celochisleniSwap| Y | Elit0o |
 |../celochisleniDecToHexBin| Y | Elit0o |
 |../celochisleniDelenie| Y | Elit0o |
+|../realniCommaFlow|
+|../realniCircle|
+|../realniSuma|
+|../realniRectangle|
+|../realniSpeed|
 | 04.MasiviSpisuci|wip
 |../
 | 05.Debugging|wip
