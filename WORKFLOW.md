@@ -21,7 +21,7 @@
 |../realniCommaFlow| Y | TsDafov, Elit0o|
 |../realniCircle| Y | Elit0o |
 |../realniSuma| Y | Aneliya05 |
-|../realniRectangle| wip | Aneliya05 |
+|../realniRectangle| Y | Aneliya05 |
 |../realniSpeed| wip | Aneliya05|
 |../preobrazuvaneAsansior| Y | Elit0o |
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o |
