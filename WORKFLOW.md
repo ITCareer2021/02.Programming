@@ -20,23 +20,23 @@
 |../celochisleniDelenie| Y | Elit0o |
 |../realniCommaFlow| Y | TsDafov, Elit0o, Aneliya05|
 |../realniCircle| Y | Elit0o |
-|../realniSuma| Y | Aneliya05 |
-|../realniRectangle| Y | Aneliya05 |
-|../realniSpeed| Y | Aneliya05|
+|../realniSuma| Y | Aneliya05, Elit0o |
+|../realniRectangle| Y | Aneliya05, Elit0o |
+|../realniSpeed| Y | Aneliya05, Elit0o |
 |../preobrazuvaneAsansior| Y | Elit0o |
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
 |../preobrazuvaneTroiki| wip | spacecreator888
-|../textobjectGreeting| Y| Kaloyan |
+|../textobjectGreeting| Y | Kaloyan, Elit0o |
 |../textobjectNizChar| wip | martin-slavov
-|../textobjectNizObject| Y | TsDafov, Elit0o|
-|../textobjectObrushtane| Y | TsDafov
-|../textobjectSlujitel| Y | Kaloyan |
-|../textobjectPiramida| Y | TsDafov
+|../textobjectNizObject| Y | TsDafov, Elit0o |
+|../textobjectObrushtane| Y | TsDafov, Elit0o |
+|../textobjectSlujitel| Y | Kaloyan, Elit0o |
+|../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci|wip
-|../rabotaMasiviStatistika| Y | ShemetW |
+|../rabotaMasiviStatistika| Y | ShemetW, Elit0o  |
 |../rabotaMasiviSreshtanoChislo| wip | TsDafov
 |../rabotaMasiviCharIndeks| wip | Elit0o
 |../rabotaMasivMasivChislo| wip | TsDafov

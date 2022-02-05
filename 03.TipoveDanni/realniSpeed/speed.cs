@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TipoveDanni_new
+namespace ConsoleApp5
 {
     class Program
     {
