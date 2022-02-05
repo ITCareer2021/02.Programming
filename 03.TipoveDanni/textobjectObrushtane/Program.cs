@@ -6,17 +6,13 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            object a = Console.ReadLine();
-            object b = Console.ReadLine();
-            object c1 = Console.ReadLine();
-            object sw = 0;
+            string hello = "Hello";
+            string world = "World";
 
-            sw = a;
-            a = c1;
-            c1 = sw;
+            object both = $"{hello} {world}";
 
-            Console.WriteLine("{0}{1}{2}", a, b, c);
-
+            string end = (string)both;
+            Console.WriteLine(end);
         }
     }
 }
