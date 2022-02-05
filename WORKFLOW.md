@@ -13,7 +13,7 @@
 |../predstavqneDvucifreni
 | 03.TipoveDanni|wip
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
-|../celochisleniCeli| Y | Elit0o |
+|../celochisleniCeli| Y | Elit0o, Aneliya05 |
 |../celochisleniHexVar| Y | Elit0o |
 |../celochisleniSwap| Y | Elit0o |
 |../celochisleniDecToHexBin| Y | Elit0o |
