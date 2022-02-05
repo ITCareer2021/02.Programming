@@ -16,7 +16,7 @@
 |../celochisleniCeli| Y | Elit0o, Aneliya05 |
 |../celochisleniHexVar| Y | Elit0o, Aneliya05 |
 |../celochisleniSwap| Y | Elit0o, Aneliya05 |
-|../celochisleniDecToHexBin| Y | Elit0o |
+|../celochisleniDecToHexBin| Y | Elit0o, Aneliya05 |
 |../celochisleniDelenie| Y | Elit0o |
 |../realniCommaFlow| Y | TsDafov, Elit0o, Aneliya05|
 |../realniCircle| Y | Elit0o |
