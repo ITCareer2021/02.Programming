@@ -18,7 +18,7 @@
 |../celochisleniSwap| Y | Elit0o |
 |../celochisleniDecToHexBin| Y | Elit0o |
 |../celochisleniDelenie| Y | Elit0o |
-|../realniCommaFlow| wip | TsDafov
+|../realniCommaFlow| Y | TsDafov
 |../realniCircle| Y | Elit0o |
 |../realniSuma| wip | Elit0o
 |../realniRectangle| wip | Elit0o
