@@ -23,7 +23,7 @@
 |../realniSuma|
 |../realniRectangle|
 |../realniSpeed|
-|../preobrazuvaneAsansior|
+|../preobrazuvaneAsansior| Y | Elit0o |
 |../preobrazuvaneSpecialni|
 |../preobrazuvaneBulevi|
 |../preobrazuvaneTroiki|
