@@ -36,7 +36,14 @@
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci|wip
-|../
+|../rabotaMasiviStatistika| Y | ShemetW |
+|../rabotaMasiviSreshtanoChislo|
+|../rabotaMasiviCharIndeks|
+|../rabotaMasivMasivChislo|
+|../rabotaMasiviReverseElement|
+|../rabotaMasiviReverseString|
+|../rabotaMasiviReverseSum|
+|../rabotaMasiviSguniISuberi|
 | 05.Debugging|wip
 | 06.Strings|wip
 
