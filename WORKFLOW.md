@@ -5,7 +5,7 @@
 | 01.SourceControl | Y | ian |
 | ../Team | wip | * |
 | 02.BroiniSistemi |wip|
-|../aritmetikaBin| Y | TsDafov |
+|../aritmetikaBin| Y | TsDafov, Kaloyan |
 |../aritmetikaHex| Y | TsDafov |
 |../predstavqnePreminavane
 |../predstavqneNaiMalkoNaiGolqmo
