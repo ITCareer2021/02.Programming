@@ -5,8 +5,8 @@
 | 01.SourceControl | Y | ian |
 | ../Team | wip | * |
 | 02.BroiniSistemi |wip|
-|../aritmetikaBin| wip | TsDafov |
-|../aritmetikaHex| wip | TsDafov |
+|../aritmetikaBin| Y | TsDafov |
+|../aritmetikaHex| Y | TsDafov |
 |../predstavqnePreminavane
 |../predstavqneNaiMalkoNaiGolqmo
 |../predstavqneIzvajdaneDvoichno
