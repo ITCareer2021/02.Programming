@@ -38,11 +38,11 @@
 | 04.MasiviSpisuci|wip
 |../rabotaMasiviStatistika| Y | ShemetW |
 |../rabotaMasiviSreshtanoChislo| wip | TsDafov
-|../rabotaMasiviCharIndeks|
+|../rabotaMasiviCharIndeks| wip | Elit0o
 |../rabotaMasivMasivChislo| wip | TsDafov
 |../rabotaMasiviReverseElement| wip | TsDafov
-|../rabotaMasiviReverseString|
-|../rabotaMasiviReverseSum|
+|../rabotaMasiviReverseString| wip | Elit0o
+|../rabotaMasiviReverseSum| wip | Elit0o
 |../rabotaMasiviSguniISuberi|
 | 05.Debugging|wip
 | 06.Strings|wip
