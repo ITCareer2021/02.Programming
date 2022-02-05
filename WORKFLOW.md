@@ -37,7 +37,7 @@
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci|wip
 |../rabotaMasiviStatistika| Y | ShemetW |
-|../rabotaMasiviSreshtanoChislo|
+|../rabotaMasiviSreshtanoChislo| wip | TsDafov
 |../rabotaMasiviCharIndeks|
 |../rabotaMasivMasivChislo| wip | TsDafov
 |../rabotaMasiviReverseElement| wip | TsDafov
