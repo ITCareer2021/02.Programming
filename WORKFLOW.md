@@ -17,7 +17,7 @@
 |../celochisleniHexVar| Y | Elit0o, Aneliya05 |
 |../celochisleniSwap| Y | Elit0o, Aneliya05 |
 |../celochisleniDecToHexBin| Y | Elit0o, Aneliya05 |
-|../celochisleniDelenie| Y | Elit0o |
+|../celochisleniDelenie| Y | Elit0o, Aneliya05 |
 |../realniCommaFlow| Y | TsDafov, Elit0o, Aneliya05|
 |../realniCircle| Y | Elit0o |
 |../realniSuma| Y | Aneliya05, Elit0o |
