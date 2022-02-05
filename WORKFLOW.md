@@ -32,7 +32,7 @@
 |../textobjectNizObject| Y | TsDafov, Elit0o|
 |../textobjectObrushtane| Y | TsDafov
 |../textobjectSlujitel| wip | Kaloyan |
-|../textobjectPiramida| wip | TsDafov
+|../textobjectPiramida| Y | TsDafov
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci|wip
