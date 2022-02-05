@@ -6,17 +6,12 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            string inStr = Console.ReadLine();
-            bool variable = Convert.ToBoolean(inStr);
-
-            if (variable == true)
-            {
-                Console.WriteLine("Yes");
-            }
-            else
-            {
-                Console.WriteLine("No");
-            }
+            Console.WriteLine("10011010010");
+            Console.WriteLine("4D2");
+            Console.WriteLine("101");
+            Console.WriteLine("65");
+            Console.WriteLine("2748");
+            Console.WriteLine("101010111100");
         }
     }
 }
