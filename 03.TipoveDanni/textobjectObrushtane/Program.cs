@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace _4._Обръщане_на_знаци
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            object a = Console.ReadLine();
+            object b = Console.ReadLine();
+            object c = Console.ReadLine();
+            object sw = 0;
+
+            sw = a;
+            a = c;
+            c = sw;
+
+            Console.WriteLine("{0}{1}{2}", a, b, c);
+
+        }
+    }
+}
