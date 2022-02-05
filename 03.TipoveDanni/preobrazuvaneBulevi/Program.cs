@@ -6,7 +6,17 @@ namespace _3._Булева_променлива
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string inStr = Console.ReadLine();
+            bool variable = Convert.ToBoolean(inStr);
+
+            if (variable == true)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
