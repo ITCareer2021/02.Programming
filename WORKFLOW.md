@@ -1,12 +1,12 @@
 # изпълнение
 
-| ресурс | работи се/изпълнен | автори/и |
+| ресурс | работи се/изпълнен | автор/и |
 | - | - |-|
 | 01.SourceControl | Y | ian |
 | ../Team | wip | * |
 | 02.BroiniSistemi |wip|
-|../aritmetikaBin|
-|../aritmetikaHex|
+|../aritmetikaBin| wip |
+|../aritmetikaHex| wip |
 |../predstavqnePreminavane
 |../predstavqneNaiMalkoNaiGolqmo
 |../predstavqneIzvajdaneDvoichno
