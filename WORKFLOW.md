@@ -27,11 +27,11 @@
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
 |../preobrazuvaneTroiki| wip | spacecreator888
-|../textobjectGreeting| wip| Kaloyan |
+|../textobjectGreeting| Y| Kaloyan |
 |../textobjectNizChar| wip | martin-slavov
 |../textobjectNizObject| Y | TsDafov, Elit0o|
 |../textobjectObrushtane| Y | TsDafov
-|../textobjectSlujitel| wip | Kaloyan |
+|../textobjectSlujitel| Y | Kaloyan |
 |../textobjectPiramida| Y | TsDafov
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
