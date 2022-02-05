@@ -23,6 +23,10 @@
 |../realniSuma|
 |../realniRectangle|
 |../realniSpeed|
+|../preobrazuvaneAsansior|
+|../preobrazuvaneSpecialni|
+|../preobrazuvaneBulevi|
+|../preobrazuvaneTroiki|
 | 04.MasiviSpisuci|wip
 |../
 | 05.Debugging|wip
