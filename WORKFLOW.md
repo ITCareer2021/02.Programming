@@ -24,14 +24,14 @@
 |../realniRectangle| wip | Elit0o
 |../realniSpeed| wip | Elit0o
 |../preobrazuvaneAsansior| Y | Elit0o |
-|../preobrazuvaneSpecialni|
+|../preobrazuvaneSpecialni| wip| Kaloyan |
 |../preobrazuvaneBulevi| wip | TsDafov
 |../preobrazuvaneTroiki|
-|../textobjectGreeting|
+|../textobjectGreeting| wip| Kaloyan |
 |../textobjectNizChar|
 |../textobjectNizObject|
 |../textobjectObrushtane| wip | TsDafov
-|../textobjectSlujitel|
+|../textobjectSlujitel| wip | Kaloyan |
 |../textobjectPiramida|
 | 04.MasiviSpisuci|wip
 |../
