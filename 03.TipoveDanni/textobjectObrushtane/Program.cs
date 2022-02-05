@@ -8,12 +8,12 @@ namespace _4._Обръщане_на_знаци
         {
             object a = Console.ReadLine();
             object b = Console.ReadLine();
-            object c = Console.ReadLine();
+            object c1 = Console.ReadLine();
             object sw = 0;
 
             sw = a;
-            a = c;
-            c = sw;
+            a = c1;
+            c1 = sw;
 
             Console.WriteLine("{0}{1}{2}", a, b, c);
 
