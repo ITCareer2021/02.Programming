@@ -12,7 +12,7 @@
 |../predstavqneIzvajdaneDvoichno
 |../predstavqneDvucifreni
 | 03.TipoveDanni|wip
-|../celochisleniVekoveMinuti| Y | Elit0o |
+|../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
 |../celochisleniCeli| Y | Elit0o |
 |../celochisleniHexVar| Y | Elit0o |
 |../celochisleniSwap| Y | Elit0o |
