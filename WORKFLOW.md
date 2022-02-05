@@ -24,7 +24,7 @@
 |../realniRectangle| wip | Elit0o
 |../realniSpeed| wip | Elit0o
 |../preobrazuvaneAsansior| Y | Elit0o |
-|../preobrazuvaneSpecialni| wip| Kaloyan |
+|../preobrazuvaneSpecialni| Y | Kaloyan |
 |../preobrazuvaneBulevi| wip | TsDafov
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| wip| Kaloyan |
