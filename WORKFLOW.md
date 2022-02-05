@@ -29,10 +29,10 @@
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| wip| Kaloyan |
 |../textobjectNizChar| wip | martin-slavov
-|../textobjectNizObject|
+|../textobjectNizObject| wip | TsDafov
 |../textobjectObrushtane| Y | TsDafov
 |../textobjectSlujitel| wip | Kaloyan |
-|../textobjectPiramida|
+|../textobjectPiramida| wip | TsDafov
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci|wip
