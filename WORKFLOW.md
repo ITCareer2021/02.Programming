@@ -27,6 +27,12 @@
 |../preobrazuvaneSpecialni|
 |../preobrazuvaneBulevi|
 |../preobrazuvaneTroiki|
+|../textobjectGreeting|
+|../textobjectNizChar|
+|../textobjectNizObject|
+|../textobjectObrushtane|
+|../textobjectSlujitel|
+|../textobjectPiramida|
 | 04.MasiviSpisuci|wip
 |../
 | 05.Debugging|wip
