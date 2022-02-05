@@ -49,6 +49,7 @@ namespace ConsoleApp1
 				sum = 0;
 
 				Console.WriteLine(i + " -> " + check);
+				
 
 
 			}
