@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _4._Обръщане_на_знаци
+namespace ConsoleApp4
 {
     class Program
     {
