@@ -70,8 +70,8 @@
 |../spisuciSortiraneChisla
 |../spisuciSortiraneKvadrati
 |../spisuciSortiraneBroi
-|../spisuciDopulnitelni12(...)
-|../spisuciDopulnitelni6(...)
+|../spisuciDop12(...)
+|../spisuciDop6(...)
 | 05.Debugging| 
 | 06.Strings| 
 
