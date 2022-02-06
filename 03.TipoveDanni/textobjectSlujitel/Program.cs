@@ -19,7 +19,6 @@ namespace Slujitel
             Console.WriteLine("Personal ID: {0} ", id);
             Console.WriteLine("Unique Employee number: {0}",number);
 
-
         }
     }
 }
