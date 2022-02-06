@@ -55,7 +55,23 @@
 |../sortiraneMasiviTursene|
 |../sortiraneMasiviSlivane|
 |../sortiraneMasiviSortirane|
+|../uvodSpisuciVuvejdane|
+|../uvodSpisuciVuvejdaneRed|
+|../uvodSpisuciImena|
+|../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
+|../spisuciObhojdaneKrainosti
+|../spisuciObhojdaneEdnakvi
+|../spisuciObhojdaneOburnati
+|../spisuciManipulaciiPremahni
+|../spisuciManipulaciiIztrivane
+|../spisuciManipulaciiSlivane
+|../spisuciManipulaciiBombichki
+|../spisuciSortiraneChisla
+|../spisuciSortiraneKvadrati
+|../spisuciSortiraneBroi
+|../spisuciDopulnitelni12(...)
+|../spisuciDopulnitelni9(...)
 | 05.Debugging| 
 | 06.Strings| 
 
