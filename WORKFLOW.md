@@ -43,7 +43,7 @@
 |../rabotaMasiviReverseElement| wip | TsDafov
 |../rabotaMasiviReverseString| Y | Elit0o
 |../rabotaMasiviReverseSum| wip | Elit0o
-|../rabotaMasiviSguniISuberi| wip, Y | MikiSpy, martin-slavov
+|../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov
 | 05.Debugging|wip
 | 06.Strings|wip
 
