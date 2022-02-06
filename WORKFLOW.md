@@ -45,7 +45,7 @@
 |../rabotaMasiviReverseSum| needHelp | Elit0o
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov
 |../metodiMasiviObrabotka|
-|../metodiMasiviBezopasnaObrabotka|
+|../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o
 |../metodiMasiviMnojestvoSumiK|
 |../metodiMasiviSredni|
 |../metodiMasiviSklad|
