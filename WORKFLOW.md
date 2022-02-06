@@ -71,7 +71,7 @@
 |../spisuciSortiraneKvadrati
 |../spisuciSortiraneBroi
 |../spisuciDopulnitelni12(...)
-|../spisuciDopulnitelni9(...)
+|../spisuciDopulnitelni6(...)
 | 05.Debugging| 
 | 06.Strings| 
 
