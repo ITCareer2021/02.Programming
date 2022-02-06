@@ -6,6 +6,7 @@ namespace ConsoleApp9
     class Program
     {
         //ne e vqrno, ako nqkoi umen ima idei...neka pomogne :D
+		//problema v tozi primer e posokata v koqto zavurtame elementite na masiva - trqbva v protivopoljna posoka (ian)
         static void Main(string[] args)
         {
             int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
