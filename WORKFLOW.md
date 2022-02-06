@@ -42,7 +42,7 @@
 |../rabotaMasivMasivChislo| wip | TsDafov
 |../rabotaMasiviReverseElement| wip | TsDafov
 |../rabotaMasiviReverseString| Y | Elit0o
-|../rabotaMasiviReverseSum| needHelp | Elit0o
+|../rabotaMasiviReverseSum| Y | Elit0o, ian
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov
 |../metodiMasiviObrabotka|
 |../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o
