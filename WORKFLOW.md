@@ -41,7 +41,7 @@
 |../rabotaMasiviCharIndeks| Y | Elit0o |
 |../rabotaMasivMasivChislo| wip | TsDafov
 |../rabotaMasiviReverseElement| wip | TsDafov
-|../rabotaMasiviReverseString|  | 
+|../rabotaMasiviReverseString| Y | Elit0o
 |../rabotaMasiviReverseSum| wip | Elit0o
 |../rabotaMasiviSguniISuberi| wip | MikiSpy
 | 05.Debugging|wip
