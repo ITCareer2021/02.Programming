@@ -2,16 +2,16 @@
 
 | ресурс | работи се/изпълнен | автор/и |
 | - | - |-|
-| 01.SourceControl | 100% | ian |
+| 01.SourceControl | +100% | ian |
 | ../Team | wip | * |
-| 02.BroiniSistemi | 50% |
+| 02.BroiniSistemi | !50% |
 |../aritmetikaBin| Y | TsDafov, Kaloyan |
 |../aritmetikaHex| Y | TsDafov |
 |../predstavqnePreminavane| Y | Elit0o |
 |../predstavqneNaiMalkoNaiGolqmo
 |../predstavqneIzvajdaneDvoichno
 |../predstavqneDvucifreni
-| 03.TipoveDanni| 75%
+| 03.TipoveDanni| +75%
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
 |../celochisleniCeli| Y | Elit0o, Aneliya05 |
 |../celochisleniHexVar| Y | Elit0o, Aneliya05 |
