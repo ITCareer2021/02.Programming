@@ -44,6 +44,12 @@
 |../rabotaMasiviReverseString| Y | Elit0o
 |../rabotaMasiviReverseSum| wip | Elit0o
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov
+|../metodiMasiviObrabotka|
+|../metodiMasiviBezopasnaObrabotka|
+|../metodiMasiviMnojestvoSumiK|
+|../metodiMasiviSredni|
+|../metodiMasiviSklad|
+|../metodiMasiviNewSklad|
 | 05.Debugging|wip
 | 06.Strings|wip
 
