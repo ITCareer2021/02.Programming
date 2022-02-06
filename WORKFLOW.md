@@ -50,6 +50,7 @@
 |../metodiMasiviSredni|
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
+|../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
 | 05.Debugging|wip
 | 06.Strings|wip
 
