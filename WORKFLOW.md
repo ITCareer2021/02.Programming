@@ -4,14 +4,14 @@
 | - | - |-|
 | 01.SourceControl | Y | ian |
 | ../Team | wip | * |
-| 02.BroiniSistemi |wip|
+| 02.BroiniSistemi | |
 |../aritmetikaBin| Y | TsDafov, Kaloyan |
 |../aritmetikaHex| Y | TsDafov |
 |../predstavqnePreminavane| Y | Elit0o |
 |../predstavqneNaiMalkoNaiGolqmo
 |../predstavqneIzvajdaneDvoichno
 |../predstavqneDvucifreni
-| 03.TipoveDanni|wip
+| 03.TipoveDanni| 
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
 |../celochisleniCeli| Y | Elit0o, Aneliya05 |
 |../celochisleniHexVar| Y | Elit0o, Aneliya05 |
@@ -35,7 +35,7 @@
 |../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
-| 04.MasiviSpisuci|wip
+| 04.MasiviSpisuci| 
 |../rabotaMasiviStatistika| Y | ShemetW, Elit0o  |
 |../rabotaMasiviSreshtanoChislo| wip | TsDafov
 |../rabotaMasiviCharIndeks| Y | Elit0o |
@@ -50,9 +50,14 @@
 |../metodiMasiviSredni|
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
+|../sortiraneMasiviSravnqvane|
+|../sortiraneMasiviVmukvane|
+|../sortiraneMasiviTursene|
+|../sortiraneMasiviSlivane|
+|../sortiraneMasiviSortirane|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
-| 05.Debugging|wip
-| 06.Strings|wip
+| 05.Debugging| 
+| 06.Strings| 
 
 
 
