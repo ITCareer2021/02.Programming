@@ -46,30 +46,30 @@
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov
 |../metodiMasiviObrabotka|
 |../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o
-|../metodiMasiviMnojestvoSumiK|
-|../metodiMasiviSredni|
+|../metodiMasiviMnojestvoSumiK| wip | Elit0o
+|../metodiMasiviSredni| wip | Elit0o
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
-|../sortiraneMasiviSravnqvane|
-|../sortiraneMasiviVmukvane|
+|../sortiraneMasiviSravnqvane| wip | Elit0o
+|../sortiraneMasiviVmukvane| wip | Elit0o
 |../sortiraneMasiviTursene|
-|../sortiraneMasiviSlivane|
-|../sortiraneMasiviSortirane|
+|../sortiraneMasiviSlivane| wip | Elit0o
+|../sortiraneMasiviSortirane| wip | Elit0o
 |../uvodSpisuciVuvejdane|
 |../uvodSpisuciVuvejdaneRed|
 |../uvodSpisuciImena|
 |../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
 |../spisuciObhojdaneKrainosti
-|../spisuciObhojdaneEdnakvi
-|../spisuciObhojdaneOburnati
+|../spisuciObhojdaneEdnakvi| wip | Elit0o
+|../spisuciObhojdaneOburnati| wip | Elit0o
 |../spisuciManipulaciiPremahni
-|../spisuciManipulaciiIztrivane
+|../spisuciManipulaciiIztrivane| wip | Elit0o
 |../spisuciManipulaciiSlivane
 |../spisuciManipulaciiBombichki
-|../spisuciSortiraneChisla
+|../spisuciSortiraneChisla| wip | Elit0o
 |../spisuciSortiraneKvadrati
-|../spisuciSortiraneBroi
+|../spisuciSortiraneBroi| wip | Elit0o
 |../spisuciDop12(...)
 |../spisuciDop6(...)
 | 05.Debugging| 
