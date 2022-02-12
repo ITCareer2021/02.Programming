@@ -47,7 +47,7 @@
 |../metodiMasiviObrabotka|
 |../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o
 |../metodiMasiviMnojestvoSumiK| wip | Elit0o
-|../metodiMasiviSredni| wip | Elit0o
+|../metodiMasiviSredni| Y | Elit0o
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
 |../sortiraneMasiviSravnqvane| wip | Elit0o
