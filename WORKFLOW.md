@@ -54,7 +54,7 @@
 |../sortiraneMasiviVmukvane| wip | Elit0o
 |../sortiraneMasiviTursene|
 |../sortiraneMasiviSlivane| wip | Elit0o
-|../sortiraneMasiviSortirane| wip | Elit0o
+|../sortiraneMasiviSortirane| Y | Elit0o
 |../uvodSpisuciVuvejdane|
 |../uvodSpisuciVuvejdaneRed|
 |../uvodSpisuciImena|
