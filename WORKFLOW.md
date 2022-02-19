@@ -46,12 +46,12 @@
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov, Elit0o |
 |../metodiMasiviObrabotka|
 |../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o
-|../metodiMasiviMnojestvoSumiK| wip | Elit0o
+|../metodiMasiviMnojestvoSumiK| 
 |../metodiMasiviSredni| Y | Elit0o
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
 |../sortiraneMasiviSravnqvane| wip | Elit0o
-|../sortiraneMasiviVmukvane| wip | Elit0o
+|../sortiraneMasiviVmukvane|
 |../sortiraneMasiviTursene|
 |../sortiraneMasiviSlivane| wip | Elit0o
 |../sortiraneMasiviSortirane| Y | Elit0o
@@ -61,15 +61,15 @@
 |../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
 |../spisuciObhojdaneKrainosti
-|../spisuciObhojdaneEdnakvi| wip | Elit0o
-|../spisuciObhojdaneOburnati| wip | Elit0o
+|../spisuciObhojdaneEdnakvi| 
+|../spisuciObhojdaneOburnati|
 |../spisuciManipulaciiPremahni
-|../spisuciManipulaciiIztrivane| wip | Elit0o
+|../spisuciManipulaciiIztrivane| 
 |../spisuciManipulaciiSlivane
 |../spisuciManipulaciiBombichki
-|../spisuciSortiraneChisla| wip | Elit0o
+|../spisuciSortiraneChisla| 
 |../spisuciSortiraneKvadrati
-|../spisuciSortiraneBroi| wip | Elit0o
+|../spisuciSortiraneBroi| 
 |../spisuciDop12(...)
 |../spisuciDop6(...)
 | 05.Debugging| 
