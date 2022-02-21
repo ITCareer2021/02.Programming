@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1._Лице_на_кръг__с_точност_12_знака_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

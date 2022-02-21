@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Размяна на стойности на променливи", "4. Размяна на стойности на променливи\4. Размяна на стойности на променливи.csproj", "{CF73F209-EB6F-44C1-9780-46CD912A882C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF73F209-EB6F-44C1-9780-46CD912A882C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF73F209-EB6F-44C1-9780-46CD912A882C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF73F209-EB6F-44C1-9780-46CD912A882C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF73F209-EB6F-44C1-9780-46CD912A882C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B44F8B2-770D-4796-9B1C-54450BE78156}
+	EndGlobalSection
+EndGlobal
