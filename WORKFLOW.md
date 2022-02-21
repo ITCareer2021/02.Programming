@@ -12,19 +12,19 @@
 |../predstavqneIzvajdaneDvoichno| wip | Elit0o
 |../predstavqneDvucifreni| wip | Elit0o
 | 03.TipoveDanni| 🟩 75%
-|../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05 |
-|../celochisleniCeli| Y | Elit0o, Aneliya05 |
-|../celochisleniHexVar| Y | Elit0o, Aneliya05 |
-|../celochisleniSwap| Y | Elit0o, Aneliya05 |
-|../celochisleniDecToHexBin| Y | Elit0o, Aneliya05 |
-|../celochisleniDelenie| Y | Elit0o, Aneliya05 |
+|../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05, TsDafov |
+|../celochisleniCeli| Y | Elit0o, Aneliya05, TsDafov |
+|../celochisleniHexVar| Y | Elit0o, Aneliya05, TsDafov |
+|../celochisleniSwap| Y | Elit0o, Aneliya05, TsDafov |
+|../celochisleniDecToHexBin| Y | Elit0o, Aneliya05, TsDafov |
+|../celochisleniDelenie| Y | Elit0o, Aneliya05, TsDafov |
 |../realniCommaFlow| Y | TsDafov, Elit0o, Aneliya05|
-|../realniCircle| Y | Elit0o |
-|../realniSuma| Y | Aneliya05, Elit0o |
-|../realniRectangle| Y | Aneliya05, Elit0o |
-|../realniSpeed| Y | Aneliya05, Elit0o |
-|../preobrazuvaneAsansior| Y | Elit0o |
-|../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o |
+|../realniCircle| Y | Elit0o, TsDafov |
+|../realniSuma| Y | Aneliya05, Elit0o, TsDafov |
+|../realniRectangle| Y | Aneliya05, Elit0o, TsDafov |
+|../realniSpeed| Y | Aneliya05, Elit0o, TsDafov |
+|../preobrazuvaneAsansior| Y | Elit0o, TsDafov |
+|../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
 |../preobrazuvaneTroiki| wip | spacecreator888
 |../textobjectGreeting| Y | Kaloyan, Elit0o |
