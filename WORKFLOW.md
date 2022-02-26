@@ -73,14 +73,14 @@
 |../spisuciDop12(...)
 |../spisuciDop6(...)
 | 05.Debugging| 
-|../metodiKasovaBelejka|
-|../metodiZnak| Y | Elit0o |
-|../metodiTriugulnik|
-|../metodiZapulnenKvadrat|
-|../metodiFtoC| Y | Elit0o |
-|../metodiLiceTriugulnik|
-|../metodiPovdiganeStepen|
-|../metodiPoGolqmaStoinost|
+|../metodiKasovaBelejka| Y | Kaloyan|
+|../metodiZnak| Y | Elit0o, Kaloyan |
+|../metodiTriugulnik| Y | Kaloyan|
+|../metodiZapulnenKvadrat| Y | Kaloyan |
+|../metodiFtoC| Y | Elit0o, Kaloyan |
+|../metodiLiceTriugulnik| Y | Kaloyan |
+|../metodiPovdiganeStepen| Y | Kaloyan |
+|../metodiPoGolqmaStoinost| wyp | Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni|
 |../debugSignalPromqnaCena|
