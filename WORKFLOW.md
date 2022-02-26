@@ -73,7 +73,14 @@
 |../spisuciDop12(...)
 |../spisuciDop6(...)
 | 05.Debugging| 
+|../metodiKasovaBelejka|
 |../metodiZnak| Y | Elit0o |
+|../metodiTriugulnik|
+|../metodiZapulnenKvadrat|
+|../metodiFtoC| Y | Elit0o |
+|../metodiLiceTriugulnik|
+|../metodiPovdiganeStepen|
+|../metodiPoGolqmaStoinost|
 | 06.Strings| 
 
 
