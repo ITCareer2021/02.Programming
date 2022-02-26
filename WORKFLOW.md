@@ -74,7 +74,7 @@
 |../spisuciDop6(...)
 | 05.Debugging| 
 |../metodiKasovaBelejka| Y | Kaloyan|
-|../metodiZnak| Y | Elit0o, Kaloyan |
+|../metodiZnak| Y | Elit0o, Kaloyan, Aneliya05 |
 |../metodiTriugulnik| Y | Kaloyan|
 |../metodiZapulnenKvadrat| Y | Kaloyan |
 |../metodiFtoC| Y | Elit0o, Kaloyan |
