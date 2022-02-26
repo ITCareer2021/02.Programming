@@ -81,6 +81,9 @@
 |../metodiLiceTriugulnik|
 |../metodiPovdiganeStepen|
 |../metodiPoGolqmaStoinost|
+|../debugEvensAndOdds| Y | Elit0o |
+|../debugPochivniDni|
+|../debugSignalPromqnaCena|
 | 06.Strings| 
 
 
