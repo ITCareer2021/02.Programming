@@ -72,8 +72,8 @@
 |../spisuciSortiraneBroi| 
 |../spisuciDop12(...)
 |../spisuciDop6(...)
-|../metodiZnak| Y | Elit0o |
 | 05.Debugging| 
+|../metodiZnak| Y | Elit0o |
 | 06.Strings| 
 
 
