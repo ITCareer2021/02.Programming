@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d1fed7f-e451-4150-9cdf-924ffdfda817": {
+      "ProjectGuid": "7d1fed7f-e451-4150-9cdf-924ffdfda817",
+      "DisplayName": "zadachi_3",
+      "ColorIndex": 0
+    },
+    "bc824d5d-9d38-401e-b91e-1e360c0fddfc": {
+      "ProjectGuid": "bc824d5d-9d38-401e-b91e-1e360c0fddfc",
+      "DisplayName": "zadachi_3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

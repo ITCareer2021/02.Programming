@@ -1,0 +1,14 @@
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\bin\Debug\netcoreapp3.1\zadachi_3.exe
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\bin\Debug\netcoreapp3.1\zadachi_3.deps.json
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\bin\Debug\netcoreapp3.1\zadachi_3.runtimeconfig.json
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\bin\Debug\netcoreapp3.1\zadachi_3.runtimeconfig.dev.json
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\bin\Debug\netcoreapp3.1\zadachi_3.dll
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\bin\Debug\netcoreapp3.1\zadachi_3.pdb
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.csproj.AssemblyReference.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.AssemblyInfoInputs.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.AssemblyInfo.cs
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.csproj.CoreCompileInputs.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.dll
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.pdb
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\Aneliya05\obj\Debug\netcoreapp3.1\zadachi_3.genruntimeconfig.cache

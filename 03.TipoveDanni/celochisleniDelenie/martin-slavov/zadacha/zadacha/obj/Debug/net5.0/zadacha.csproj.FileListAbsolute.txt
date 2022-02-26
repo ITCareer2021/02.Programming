@@ -1,0 +1,16 @@
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\zadacha.exe
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\zadacha.deps.json
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\zadacha.runtimeconfig.json
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\zadacha.runtimeconfig.dev.json
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\zadacha.dll
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\ref\zadacha.dll
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\bin\Debug\net5.0\zadacha.pdb
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.csproj.AssemblyReference.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.AssemblyInfoInputs.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.AssemblyInfo.cs
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.csproj.CoreCompileInputs.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.dll
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\ref\zadacha.dll
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.pdb
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\martin-slavov\zadacha\zadacha\obj\Debug\net5.0\zadacha.genruntimeconfig.cache

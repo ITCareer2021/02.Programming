@@ -1,0 +1,5 @@
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+E:\ITCareer2021\03.TipoveDanni\celochisleniDelenie\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache

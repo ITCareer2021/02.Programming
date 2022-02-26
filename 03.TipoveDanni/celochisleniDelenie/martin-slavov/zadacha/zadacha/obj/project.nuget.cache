@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDpMRNlJE6O0V+Q6l3qpaKe7tCGWKj+0VK7SHHt+poh5Pl7r9z8dtvIA/Hyk1UVFSAVlIF/2J0+Rr0UA5LD1xA==",
+  "success": true,
+  "projectFilePath": "E:\\ITCareer2021\\03.TipoveDanni\\celochisleniDelenie\\martin-slavov\\zadacha\\zadacha\\zadacha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin Slavov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
