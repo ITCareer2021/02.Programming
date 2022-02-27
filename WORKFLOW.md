@@ -85,7 +85,50 @@
 |../debugPochivniDni|
 |../debugSignalPromqnaCena|
 | 06.Strings| 
-
+|../nizove10toN| 
+|../nizoveNto10|
+|../nizoveCovert|
+|../nizoveUncode|
+|../nizoveMultiply|
+|../nizovePalindrom|
+|../nizoveRepetitiveWords|
+|../nizoveSbor|
+|../nizoveBigMultiply|
+|../nizovePredstavkiNastavki|
+|../nizoveMelrah|
+|../nizoveBukvi|
+|../nizoveSkrivalishte|
+|../nizoveCenzora|
+|../nizoveStringBuilder|
+|../nizoveEmail|
+|../nizoveDopKarateStrings|
+|../nizoveDopCenzoraStringBuilder|
+|../nizoveDopReverseStrings|
+|../nizoveDopDigitsLettersOther|
+|../nizoveDopCharacterMultiplier|
+|../nizoveDopCaesarCipher|
+|../nizoveDopStringExplosion|
+|../nizoveDopTreasureFinder|
+|../nizoveDopLettersChangeNums|
+| 07.MnogomerniMasiv|
+|../mnogomerniVhodIzhod|
+|../mnogomerniAverage|
+|../mnogomerniMin|
+|../mnogomerniLottery|
+|../mnogomerniNazubeniPloshtadka|
+|../mnogomerniNzaubeniChess|
+|../mnogomerniNzaubeniPaskal|
+|../mnogomerniNzaubeniTablichki|
+|../mnogomerniDopSumMatrixEl|
+|../mnogomerniDopSumMatrixCol|
+|../mnogomerniDopPrimaryDiagonal|
+|../mnogomerniDopSymbolInMatrix|
+|../mnogomerniDopJaggedArray|
+|../mnogomerniDopMaximalSum|
+|../mnogomerniDopMatrixShuffling|
+|../mnogomerniDopSquareMaxSum|
+|../mnogomerniDopBombs|
+|../mnogomerniDopMiner|
 
 
 
