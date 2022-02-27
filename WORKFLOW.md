@@ -111,10 +111,10 @@
 |../nizoveDopTreasureFinder|
 |../nizoveDopLettersChangeNums|
 | 07.MnogomerniMasiv|🟥 0%|
-|../mnogomerniVhodIzhod|
-|../mnogomerniAverage|
-|../mnogomerniMin|
-|../mnogomerniLottery|
+|../mnogomerniVhodIzhod| Y | TsDafov |
+|../mnogomerniAverage| wip | TsDafov 50% |
+|../mnogomerniMin| Y | TsDafov |
+|../mnogomerniLottery| wip | TsDafov 50% |
 |../mnogomerniNazubeniPloshtadka|
 |../mnogomerniNzaubeniChess|
 |../mnogomerniNzaubeniPaskal|
