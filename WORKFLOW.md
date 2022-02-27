@@ -83,14 +83,14 @@
 |../metodiPoGolqmaStoinost| wip | Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
-|../debugSignalPromqnaCena|  | Elit0o 0%
+|../debugSignalPromqnaCena|  | Elit0o 0% |
 | 06.Strings| 🟥 0% |
-|../nizove10toN| wip | Elit0o, TsDafov
+|../nizove10toN| Y | TsDafov, Elit0o |
 |../nizoveNto10|
-|../nizoveCovert| wip | Elit0o, TsDafov
-|../nizoveUncode| wip | Elit0o, Tsdafov
-|../nizoveMultiply| wip | Elit0o, TsDafov
-|../nizovePalindrom|
+|../nizoveCovert| Y | TsDafov, Elit0o | 
+|../nizoveUncode| wip | Elit0o, TsDafov |
+|../nizoveMultiply| Y | TsDafov, Elit0o |
+|../nizovePalindrom| Y | TsDafov |
 |../nizoveRepetitiveWords|
 |../nizoveSbor|
 |../nizoveBigMultiply|
