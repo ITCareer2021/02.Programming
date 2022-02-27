@@ -82,7 +82,7 @@
 |../metodiPovdiganeStepen| Y | Kaloyan |
 |../metodiPoGolqmaStoinost| wip | Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
-|../debugPochivniDni|
+|../debugPochivniDni| Y | Elit0o
 |../debugSignalPromqnaCena|
 | 06.Strings| 🟥 0% |
 |../nizove10toN| 
