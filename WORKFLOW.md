@@ -11,7 +11,7 @@
 |../predstavqneNaiMalkoNaiGolqmo| wip | Elit0o
 |../predstavqneIzvajdaneDvoichno| wip | Elit0o
 |../predstavqneDvucifreni| wip | Elit0o
-| 03.TipoveDanni| 🟩 75%
+| 03.TipoveDanni| 🟩 75%|
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05, TsDafov |
 |../celochisleniCeli| Y | Elit0o, Aneliya05, TsDafov |
 |../celochisleniHexVar| Y | Elit0o, Aneliya05, TsDafov |
@@ -35,7 +35,7 @@
 |../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
-| 04.MasiviSpisuci| 🟥 9%
+| 04.MasiviSpisuci| 🟥 9%|
 |../rabotaMasiviStatistika| Y | ShemetW, Elit0o  |
 |../rabotaMasiviSreshtanoChislo| wip | TsDafov
 |../rabotaMasiviCharIndeks| Y | Elit0o |
@@ -84,7 +84,7 @@
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni|
 |../debugSignalPromqnaCena|
-| 06.Strings| 
+| 06.Strings| 🟥 0% |
 |../nizove10toN| 
 |../nizoveNto10|
 |../nizoveCovert|
@@ -110,7 +110,7 @@
 |../nizoveDopStringExplosion|
 |../nizoveDopTreasureFinder|
 |../nizoveDopLettersChangeNums|
-| 07.MnogomerniMasiv|
+| 07.MnogomerniMasiv|🟥 0%|
 |../mnogomerniVhodIzhod|
 |../mnogomerniAverage|
 |../mnogomerniMin|
