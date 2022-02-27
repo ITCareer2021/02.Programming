@@ -83,7 +83,7 @@
 |../metodiPoGolqmaStoinost| wip | Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
-|../debugSignalPromqnaCena|
+|../debugSignalPromqnaCena|  | Elit0o 0%
 | 06.Strings| 🟥 0% |
 |../nizove10toN| 
 |../nizoveNto10|
@@ -111,10 +111,10 @@
 |../nizoveDopTreasureFinder|
 |../nizoveDopLettersChangeNums|
 | 07.MnogomerniMasiv|🟥 0%|
-|../mnogomerniVhodIzhod| Y | TsDafov |
-|../mnogomerniAverage| wip | TsDafov 50% |
-|../mnogomerniMin| Y | TsDafov |
-|../mnogomerniLottery| wip | TsDafov 50% |
+|../mnogomerniVhodIzhod|
+|../mnogomerniAverage|
+|../mnogomerniMin|
+|../mnogomerniLottery|
 |../mnogomerniNazubeniPloshtadka|
 |../mnogomerniNzaubeniChess|
 |../mnogomerniNzaubeniPaskal|
