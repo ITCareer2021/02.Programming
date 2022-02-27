@@ -8,9 +8,9 @@
 |../aritmetikaBin| Y | TsDafov, Kaloyan |
 |../aritmetikaHex| Y | TsDafov |
 |../predstavqnePreminavane| Y | Elit0o |
-|../predstavqneNaiMalkoNaiGolqmo| wip | Elit0o
-|../predstavqneIzvajdaneDvoichno| wip | Elit0o
-|../predstavqneDvucifreni| wip | Elit0o
+|../predstavqneNaiMalkoNaiGolqmo| 
+|../predstavqneIzvajdaneDvoichno| 
+|../predstavqneDvucifreni| 
 | 03.TipoveDanni| 🟩 75%|
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05, TsDafov |
 |../celochisleniCeli| Y | Elit0o, Aneliya05, TsDafov |
