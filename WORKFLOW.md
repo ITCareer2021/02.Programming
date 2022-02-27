@@ -35,7 +35,7 @@
 |../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
-| 04.MasiviSpisuci| 🟥 35%|
+| 04.MasiviSpisuci| 🟧 35%|
 |../rabotaMasiviStatistika| Y | ShemetW, Elit0o  |
 |../rabotaMasiviSreshtanoChislo| wip | TsDafov
 |../rabotaMasiviCharIndeks| Y | Elit0o |
