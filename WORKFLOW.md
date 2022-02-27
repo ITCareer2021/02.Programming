@@ -85,11 +85,11 @@
 |../debugPochivniDni| Y | Elit0o
 |../debugSignalPromqnaCena|  | Elit0o 0%
 | 06.Strings| 🟥 0% |
-|../nizove10toN| 
+|../nizove10toN| wip | Elit0o, TsDafov
 |../nizoveNto10|
-|../nizoveCovert|
-|../nizoveUncode|
-|../nizoveMultiply|
+|../nizoveCovert| wip | Elit0o, TsDafov
+|../nizoveUncode| wip | Elit0o, Tsdafov
+|../nizoveMultiply| wip | Elit0o, TsDafov
 |../nizovePalindrom|
 |../nizoveRepetitiveWords|
 |../nizoveSbor|
