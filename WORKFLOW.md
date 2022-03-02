@@ -56,7 +56,7 @@
 |../sortiraneMasiviSlivane| wip | Elit0o
 |../sortiraneMasiviSortirane| Y | Elit0o
 |../uvodSpisuciVuvejdane|
-|../uvodSpisuciVuvejdaneRed|
+|../uvodSpisuciVuvejdaneRed| Y | Aneliya05
 |../uvodSpisuciImena|
 |../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
