@@ -57,7 +57,7 @@
 |../sortiraneMasiviSortirane| Y | Elit0o
 |../uvodSpisuciVuvejdane|
 |../uvodSpisuciVuvejdaneRed| Y | Aneliya05
-|../uvodSpisuciImena|
+|../uvodSpisuciImena| Y | Aneliya05
 |../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
 |../spisuciObhojdaneKrainosti
