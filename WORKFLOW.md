@@ -60,7 +60,7 @@
 |../uvodSpisuciImena| Y | Aneliya05
 |../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
-|../spisuciObhojdaneKrainosti
+|../spisuciObhojdaneKrainosti| wip | Aneliya05
 |../spisuciObhojdaneEdnakvi| 
 |../spisuciObhojdaneOburnati|
 |../spisuciManipulaciiPremahni
