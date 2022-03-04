@@ -50,7 +50,7 @@
 |../metodiMasiviSredni| Y | Elit0o
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
-|../sortiraneMasiviSravnqvane| wip | Elit0o
+|../sortiraneMasiviSravnqvane| Y | Elit0o
 |../sortiraneMasiviVmukvane|
 |../sortiraneMasiviTursene|
 |../sortiraneMasiviSlivane| wip | Elit0o
