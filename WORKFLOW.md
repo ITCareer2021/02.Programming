@@ -26,17 +26,17 @@
 |../preobrazuvaneAsansior| Y | Elit0o, TsDafov |
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
-|../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o
-|../textobjectGreeting| Y | Kaloyan, Elit0o |
+|../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o |
+|../textobjectGreeting| Y | Kaloyan, Elit0o, TsDafov |
 |../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o
 |../textobjectNizObject| Y | TsDafov, Elit0o |
 |../textobjectObrushtane| Y | TsDafov, Elit0o |
-|../textobjectSlujitel| Y | Kaloyan, Elit0o |
+|../textobjectSlujitel| Y | Kaloyan, Elit0o, TsDafov |
 |../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci| 🟧 35%|
-|../rabotaMasiviStatistika| Y | ShemetW, Elit0o  |
+|../rabotaMasiviStatistika| Y | ShemetW, Elit0o, TsDafov  |
 |../rabotaMasiviSreshtanoChislo| wip | TsDafov
 |../rabotaMasiviCharIndeks| Y | Elit0o |
 |../rabotaMasivMasivChislo| wip | TsDafov
