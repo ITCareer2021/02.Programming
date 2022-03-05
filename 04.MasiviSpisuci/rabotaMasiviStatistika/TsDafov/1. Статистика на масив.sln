@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Статистика на масив", "1. Статистика на масив\1. Статистика на масив.csproj", "{928C97DD-6576-463E-87DD-9EA80A84574A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928C97DD-6576-463E-87DD-9EA80A84574A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928C97DD-6576-463E-87DD-9EA80A84574A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928C97DD-6576-463E-87DD-9EA80A84574A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928C97DD-6576-463E-87DD-9EA80A84574A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7CB202-5FAF-44B3-B46C-A8D836EE8BEB}
+	EndGlobalSection
+EndGlobal
