@@ -11,7 +11,7 @@
 |../predstavqneNaiMalkoNaiGolqmo| 
 |../predstavqneIzvajdaneDvoichno| 
 |../predstavqneDvucifreni| 
-| 03.TipoveDanni| 🟩 75%|
+| 03.TipoveDanni| 🟩 90%|
 |../celochisleniVekoveMinuti| Y | Elit0o, Aneliya05, TsDafov |
 |../celochisleniCeli| Y | Elit0o, Aneliya05, TsDafov |
 |../celochisleniHexVar| Y | Elit0o, Aneliya05, TsDafov |
@@ -28,7 +28,7 @@
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
 |../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o
 |../textobjectGreeting| Y | Kaloyan, Elit0o |
-|../textobjectNizChar| wip | martin-slavov, TsDafov, Elit0o
+|../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o
 |../textobjectNizObject| Y | TsDafov, Elit0o |
 |../textobjectObrushtane| Y | TsDafov, Elit0o |
 |../textobjectSlujitel| Y | Kaloyan, Elit0o |
