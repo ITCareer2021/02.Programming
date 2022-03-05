@@ -91,7 +91,7 @@
 |../nizoveUncode| wip | Elit0o, TsDafov |
 |../nizoveMultiply| wip | TsDafov 80%, Elit0o |
 |../nizovePalindrom| Y | TsDafov |
-|../nizoveRepetitiveWords|
+|../nizoveMagicWords| Y | Elit0o
 |../nizoveSbor|
 |../nizoveBigMultiply|
 |../nizovePredstavkiNastavki|
