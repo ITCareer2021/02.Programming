@@ -26,9 +26,9 @@
 |../preobrazuvaneAsansior| Y | Elit0o, TsDafov |
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
-|../preobrazuvaneTroiki| wip | spacecreator888 (wip), TsDafov, Elit0o
+|../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o
 |../textobjectGreeting| Y | Kaloyan, Elit0o |
-|../textobjectNizChar| wip | martin-slavov
+|../textobjectNizChar| wip | martin-slavov, TsDafov, Elit0o
 |../textobjectNizObject| Y | TsDafov, Elit0o |
 |../textobjectObrushtane| Y | TsDafov, Elit0o |
 |../textobjectSlujitel| Y | Kaloyan, Elit0o |
@@ -45,9 +45,9 @@
 |../rabotaMasiviReverseSum| Y | Elit0o, ian
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov, Elit0o |
 |../metodiMasiviObrabotka|
-|../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o
+|../metodiMasiviBezopasnaObrabotka| Y | TsDafov, Elit0o |
 |../metodiMasiviMnojestvoSumiK| 
-|../metodiMasiviSredni| Y | Elit0o
+|../metodiMasiviSredni| Y | Elit0o |
 |../metodiMasiviSklad|
 |../metodiMasiviNewSklad|
 |../sortiraneMasiviSravnqvane| Y | Elit0o
