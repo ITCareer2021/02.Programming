@@ -134,6 +134,10 @@
 |../dictionaryPhonebook| Y | Elit0o
 |../dictionaryMiner|
 |../dictionaryMarket|
+|../dictionarySumMinMaxAv| Y | Elit0o
+|../dictionaryBigNums|
+|../dictionarySortWords|
+|../dictionarySguniSum|
 
 
 
