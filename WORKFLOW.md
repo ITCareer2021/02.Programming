@@ -37,10 +37,10 @@
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci| 🟧 35%|
 |../rabotaMasiviStatistika| Y | ShemetW, Elit0o, TsDafov  |
-|../rabotaMasiviSreshtanoChislo| wip | TsDafov
+|../rabotaMasiviSreshtanoChislo| wip | TsDafov, Elit0o
 |../rabotaMasiviCharIndeks| Y | Elit0o |
-|../rabotaMasivMasivChislo| wip | TsDafov
-|../rabotaMasiviReverseElement| wip | TsDafov
+|../rabotaMasivMasivChislo| wip | TsDafov, Elit0o
+|../rabotaMasiviReverseElement| wip | TsDafov, Elit0o
 |../rabotaMasiviReverseString| Y | Elit0o
 |../rabotaMasiviReverseSum| Y | Elit0o, ian
 |../rabotaMasiviSguniISuberi| Y | MikiSpy, martin-slavov, Elit0o |
