@@ -111,7 +111,7 @@
 |../nizoveDopTreasureFinder|
 |../nizoveDopLettersChangeNums|
 | 07.MnogomerniMasiv|🟥 0%|
-|../mnogomerniVhodIzhod|
+|../mnogomerniVhodIzhod| Y | Aneliya05 |
 |../mnogomerniAverage|
 |../mnogomerniMin|
 |../mnogomerniLottery|
