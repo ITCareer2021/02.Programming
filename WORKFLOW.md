@@ -134,10 +134,18 @@
 |../dictionaryPhonebook| Y | Elit0o
 |../dictionaryMiner| wip | Elit0o
 |../dictionaryMarket|
-|../dictionarySumMinMaxAv| Y | Elit0o
-|../dictionaryBigNums|
-|../dictionarySortWords| wip | Elit0o
-|../dictionarySguniSum|
+|../sortedDictionaryRealni|
+|../sortedDictionaryTelefonen|
+|../linqLambdaSumMinMaxAv| Y | Elit0o
+|../linqLambdaBigNums|
+|../linqLambdaSortWords| Y | Elit0o
+|../linqLambdaSguniSum|
+|../lambdaDictionarySortiraneChasove|
+|../lambdaDictionaryNechetenFiltur|
+|../lambdaDictionaryImunnaSistema|
+|../lambdaDictionaryEmail|
+|../lambdaDictionaryDobraRuka|
+
 
 
 
