@@ -93,7 +93,7 @@
 |../nizovePalindrom| Y | TsDafov |
 |../nizoveMagicWords| Y | Elit0o
 |../nizoveSbor| Y | Aneliya05, ian |
-|../nizoveBigMultiply|
+|../nizoveBigMultiply| wip | dobavete vashe kato purvo reshenie, ian |
 |../nizovePredstavkiNastavki|
 |../nizoveMelrah|
 |../nizoveBukvi|
