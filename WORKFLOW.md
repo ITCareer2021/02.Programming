@@ -84,7 +84,7 @@
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
 |../debugSignalPromqnaCena|  
-| 06.Strings| 🟥 0% |
+| 06.Strings| 🟥 7% |
 |../nizove10toN| wip | TsDafov 80%, Elit0o |
 |../nizoveNto10|
 |../nizoveCovert| Y | TsDafov, Elit0o | 
@@ -110,7 +110,7 @@
 |../nizoveDopStringExplosion|
 |../nizoveDopTreasureFinder|
 |../nizoveDopLettersChangeNums|
-| 07.MnogomerniMasiv|🟥 0%|
+| 07.MnogomerniMasiv|🟥 7%|
 |../mnogomerniVhodIzhod| Y | Aneliya05 |
 |../mnogomerniAverage| wip | Aneliya05 |
 |../mnogomerniMin| wip | Aneliya |
