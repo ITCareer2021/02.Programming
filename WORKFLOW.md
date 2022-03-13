@@ -63,16 +63,16 @@
 |../spisuciObhojdaneKrainosti| wip | Aneliya05
 |../spisuciObhojdaneEdnakvi| 
 |../spisuciObhojdaneOburnati|
-|../spisuciManipulaciiPremahni
+|../spisuciManipulaciiPremahni|
 |../spisuciManipulaciiIztrivane| 
-|../spisuciManipulaciiSlivane
-|../spisuciManipulaciiBombichki
+|../spisuciManipulaciiSlivane|
+|../spisuciManipulaciiBombichki|
 |../spisuciSortiraneChisla| 
-|../spisuciSortiraneKvadrati
+|../spisuciSortiraneKvadrati|
 |../spisuciSortiraneBroi| 
 |../spisuciDop12(...)
 |../spisuciDop6(...)
-| 05.Debugging| 
+| 05.Debugging| 🟩 99% |
 |../metodiKasovaBelejka| Y | Kaloyan, Elit0o|
 |../metodiZnak| Y | Elit0o, Kaloyan, Aneliya05 |
 |../metodiTriugulnik| Y | Kaloyan, Elit0o|
@@ -83,7 +83,7 @@
 |../metodiPoGolqmaStoinost| wip | Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
-|../debugSignalPromqnaCena|  | Elit0o 0% |
+|../debugSignalPromqnaCena|  
 | 06.Strings| 🟥 0% |
 |../nizove10toN| wip | TsDafov 80%, Elit0o |
 |../nizoveNto10|
