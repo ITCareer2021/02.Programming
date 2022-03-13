@@ -112,8 +112,8 @@
 |../nizoveDopLettersChangeNums|
 | 07.MnogomerniMasiv|🟥 0%|
 |../mnogomerniVhodIzhod| Y | Aneliya05 |
-|../mnogomerniAverage|
-|../mnogomerniMin|
+|../mnogomerniAverage| wip | Aneliya05 |
+|../mnogomerniMin| wip | Aneliya |
 |../mnogomerniLottery|
 |../mnogomerniNazubeniPloshtadka|
 |../mnogomerniNzaubeniChess|
