@@ -76,10 +76,10 @@
 |../metodiKasovaBelejka| Y | Kaloyan, Elit0o|
 |../metodiZnak| Y | Elit0o, Kaloyan, Aneliya05 |
 |../metodiTriugulnik| Y | Kaloyan, Elit0o|
-|../metodiZapulnenKvadrat| Y | Kaloyan |
+|../metodiZapulnenKvadrat| Y | Kaloyan, Elit0o |
 |../metodiFtoC| Y | Elit0o, Kaloyan |
-|../metodiLiceTriugulnik| Y | Kaloyan |
-|../metodiPovdiganeStepen| Y | Kaloyan |
+|../metodiLiceTriugulnik| Y | Kaloyan, Elit0o |
+|../metodiPovdiganeStepen| Y | Kaloyan, Elit0o |
 |../metodiPoGolqmaStoinost| wip | Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
