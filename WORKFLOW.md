@@ -80,7 +80,7 @@
 |../metodiFtoC| Y | Elit0o, Kaloyan |
 |../metodiLiceTriugulnik| Y | Kaloyan, Elit0o |
 |../metodiPovdiganeStepen| Y | Kaloyan, Elit0o |
-|../metodiPoGolqmaStoinost| Y | Elit0o, Kaloyan | 
+|../metodiPoGolqmaStoinost| Y | Kaloyan, Elit0o | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
 |../debugSignalPromqnaCena|  
