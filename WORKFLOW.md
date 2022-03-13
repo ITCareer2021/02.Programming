@@ -132,7 +132,7 @@
 | 08.Dictionaries |🟥 5% |
 |../dictionaryOdd| Y | Elit0o
 |../dictionaryPhonebook| Y | Elit0o
-|../dictionaryMiner| wip | Elit0o
+|../dictionaryMiner| Y | Elit0o 75%
 |../dictionaryMarket|
 |../sortedDictionaryRealni|
 |../sortedDictionaryTelefonen|
