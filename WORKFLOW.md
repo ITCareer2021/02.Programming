@@ -129,7 +129,7 @@
 |../mnogomerniDopSquareMaxSum|
 |../mnogomerniDopBombs|
 |../mnogomerniDopMiner|
-| 08.Dictionaries |
+| 08.Dictionaries |🟥 5% |
 |../dictionaryOdd| Y | Elit0o
 |../dictionaryPhonebook| Y | Elit0o
 |../dictionaryMiner| wip | Elit0o
