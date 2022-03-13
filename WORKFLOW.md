@@ -80,7 +80,7 @@
 |../metodiFtoC| Y | Elit0o, Kaloyan |
 |../metodiLiceTriugulnik| Y | Kaloyan, Elit0o |
 |../metodiPovdiganeStepen| Y | Kaloyan, Elit0o |
-|../metodiPoGolqmaStoinost| wip | Kaloyan | 
+|../metodiPoGolqmaStoinost| Y | Elit0o, Kaloyan | 
 |../debugEvensAndOdds| Y | Elit0o |
 |../debugPochivniDni| Y | Elit0o
 |../debugSignalPromqnaCena|  
@@ -88,8 +88,8 @@
 |../nizove10toN| wip | TsDafov 80%, Elit0o |
 |../nizoveNto10|
 |../nizoveCovert| Y | TsDafov, Elit0o | 
-|../nizoveUncode| wip | Elit0o, TsDafov |
-|../nizoveMultiply| wip | TsDafov 80%, Elit0o |
+|../nizoveUncode| wip |  TsDafov |
+|../nizoveMultiply| wip | TsDafov 80% |
 |../nizovePalindrom| Y | TsDafov |
 |../nizoveMagicWords| Y | Elit0o
 |../nizoveSbor|
