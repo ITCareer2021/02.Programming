@@ -132,7 +132,7 @@
 | 08.Dictionaries |
 |../dictionaryOdd| Y | Elit0o
 |../dictionaryPhonebook| Y | Elit0o
-|../dictionaryMiner|
+|../dictionaryMiner| wip | Elit0o
 |../dictionaryMarket|
 |../dictionarySumMinMaxAv| Y | Elit0o
 |../dictionaryBigNums|
