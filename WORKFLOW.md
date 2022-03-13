@@ -92,7 +92,7 @@
 |../nizoveMultiply| wip | TsDafov 80% |
 |../nizovePalindrom| Y | TsDafov |
 |../nizoveMagicWords| Y | Elit0o
-|../nizoveSbor|
+|../nizoveSbor| wip | Aneliya05 60%
 |../nizoveBigMultiply|
 |../nizovePredstavkiNastavki|
 |../nizoveMelrah|
