@@ -23,8 +23,8 @@
 |../realniSuma| Y | Aneliya05, Elit0o, TsDafov |
 |../realniRectangle| Y | Aneliya05, Elit0o, TsDafov |
 |../realniSpeed| Y | Aneliya05, Elit0o, TsDafov |
-|../preobrazuvaneAsansior| Y | Elit0o, TsDafov |
-|../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov |
+|../preobrazuvaneAsansior| Y | Elit0o, TsDafov, Aneliya05 |
+|../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
 |../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o |
 |../textobjectGreeting| Y | Kaloyan, Elit0o, TsDafov |
