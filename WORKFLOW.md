@@ -25,7 +25,7 @@
 |../realniSpeed| Y | Aneliya05, Elit0o, TsDafov |
 |../preobrazuvaneAsansior| Y | Elit0o, TsDafov, Aneliya05 |
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
-|../preobrazuvaneBulevi| Y | TsDafov, Elit0o |
+|../preobrazuvaneBulevi| Y | TsDafov, Elit0o, Aneliya05 |
 |../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o |
 |../textobjectGreeting| Y | Kaloyan, Elit0o, TsDafov |
 |../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o
