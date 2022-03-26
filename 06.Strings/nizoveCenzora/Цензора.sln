@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Цензора", "Цензора.csproj", "{D19250E9-6549-4AFA-A34B-A6DA48F9BEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D19250E9-6549-4AFA-A34B-A6DA48F9BEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19250E9-6549-4AFA-A34B-A6DA48F9BEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19250E9-6549-4AFA-A34B-A6DA48F9BEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19250E9-6549-4AFA-A34B-A6DA48F9BEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF68D3A4-4149-479D-8D8D-7E8E65250A47}
+	EndGlobalSection
+EndGlobal
