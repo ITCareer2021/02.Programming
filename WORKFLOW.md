@@ -98,7 +98,7 @@
 |../nizoveMelrah|
 |../nizoveBukvi|
 |../nizoveSkrivalishte|
-|../nizoveCenzora| wip | Elit0o
+|../nizoveCenzora| Y | Elit0o
 |../nizoveStringBuilder|
 |../nizoveEmail|
 |../nizoveDopKarateStrings|
