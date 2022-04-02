@@ -19,7 +19,7 @@
 |../celochisleniDecToHexBin| Y | Elit0o, Aneliya05, TsDafov |
 |../celochisleniDelenie| Y | Elit0o, Aneliya05, TsDafov |
 |../realniCommaFlow| Y | TsDafov, Elit0o, Aneliya05|
-|../realniCircle| Y | Elit0o, TsDafov |
+|../realniCircle| Y | Elit0o, TsDafov, Aneliya05 |
 |../realniSuma| Y | Aneliya05, Elit0o, TsDafov |
 |../realniRectangle| Y | Aneliya05, Elit0o, TsDafov |
 |../realniSpeed| Y | Aneliya05, Elit0o, TsDafov |
