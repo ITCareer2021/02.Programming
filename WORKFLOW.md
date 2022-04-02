@@ -26,7 +26,7 @@
 |../preobrazuvaneAsansior| Y | Elit0o, TsDafov, Aneliya05 |
 |../preobrazuvaneSpecialni| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
 |../preobrazuvaneBulevi| Y | TsDafov, Elit0o, Aneliya05 |
-|../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o |
+|../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o, Aneliya05 |
 |../textobjectGreeting| Y | Kaloyan, Elit0o, TsDafov |
 |../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o
 |../textobjectNizObject| Y | TsDafov, Elit0o |
