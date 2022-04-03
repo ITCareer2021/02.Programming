@@ -30,7 +30,7 @@
 |../textobjectGreeting| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
 |../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o, Aneliya05|
 |../textobjectNizObject| Y | TsDafov, Elit0o, Aneliya05 |
-|../textobjectObrushtane| Y | TsDafov, Elit0o |
+|../textobjectObrushtane| Y | TsDafov, Elit0o, Aneliya05 |
 |../textobjectSlujitel| Y | Kaloyan, Elit0o, TsDafov |
 |../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
