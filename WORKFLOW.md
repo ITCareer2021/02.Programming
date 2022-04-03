@@ -29,7 +29,7 @@
 |../preobrazuvaneTroiki| Y | spacecreator888 (wip), TsDafov, Elit0o, Aneliya05 |
 |../textobjectGreeting| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
 |../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o, Aneliya05|
-|../textobjectNizObject| Y | TsDafov, Elit0o |
+|../textobjectNizObject| Y | TsDafov, Elit0o, Aneliya05 |
 |../textobjectObrushtane| Y | TsDafov, Elit0o |
 |../textobjectSlujitel| Y | Kaloyan, Elit0o, TsDafov |
 |../textobjectPiramida| Y | TsDafov, Elit0o |
