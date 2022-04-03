@@ -31,7 +31,7 @@
 |../textobjectNizChar| Y | martin-slavov, TsDafov, Elit0o, Aneliya05|
 |../textobjectNizObject| Y | TsDafov, Elit0o, Aneliya05 |
 |../textobjectObrushtane| Y | TsDafov, Elit0o, Aneliya05 |
-|../textobjectSlujitel| Y | Kaloyan, Elit0o, TsDafov |
+|../textobjectSlujitel| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
 |../textobjectPiramida| Y | TsDafov, Elit0o |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
