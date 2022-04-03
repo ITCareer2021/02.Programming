@@ -32,7 +32,7 @@
 |../textobjectNizObject| Y | TsDafov, Elit0o, Aneliya05 |
 |../textobjectObrushtane| Y | TsDafov, Elit0o, Aneliya05 |
 |../textobjectSlujitel| Y | Kaloyan, Elit0o, TsDafov, Aneliya05 |
-|../textobjectPiramida| Y | TsDafov, Elit0o |
+|../textobjectPiramida| Y | TsDafov, Elit0o, Aneliya05 |
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci| 🟧 35%|
