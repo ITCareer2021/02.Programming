@@ -137,7 +137,7 @@
 |../sortedDictionaryRealni| wip | Elit0o
 |../sortedDictionaryTelefonen|
 |../linqLambdaSumMinMaxAv| Y | Elit0o
-|../linqLambdaBigNums|
+|../linqLambdaBigNums| wip | Elit0o
 |../linqLambdaSortWords| Y | Elit0o
 |../linqLambdaSguniSum|
 |../lambdaDictionarySortiraneChasove|
