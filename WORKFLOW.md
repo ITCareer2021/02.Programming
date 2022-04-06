@@ -129,16 +129,16 @@
 |../mnogomerniDopSquareMaxSum|
 |../mnogomerniDopBombs|
 |../mnogomerniDopMiner|
-| 08.Dictionaries |🟥 5% |
-|../dictionaryOdd| Y | Elit0o
-|../dictionaryPhonebook| Y | Elit0o
+| 08.Dictionaries |🟥 50% |
+|../dictionaryOdd| Y | Elit0o |
+|../dictionaryPhonebook| Y | Elit0o |
 |../dictionaryMiner| Y | Elit0o 75%
 |../dictionaryMarket|
-|../sortedDictionaryRealni| wip | Elit0o
+|../sortedDictionaryRealni| Y | Elit0o |
 |../sortedDictionaryTelefonen|
-|../linqLambdaSumMinMaxAv| Y | Elit0o
-|../linqLambdaBigNums| wip | Elit0o
-|../linqLambdaSortWords| Y | Elit0o
+|../linqLambdaSumMinMaxAv| Y | Elit0o |
+|../linqLambdaBigNums| Y | Elit0o |
+|../linqLambdaSortWords| Y | Elit0o |
 |../linqLambdaSguniSum|
 |../lambdaDictionarySortiraneChasove|
 |../lambdaDictionaryNechetenFiltur|
