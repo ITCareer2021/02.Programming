@@ -36,7 +36,7 @@
 |../dopDevet(...)| 
 |../dopDvadetset(...)|
 | 04.MasiviSpisuci| 🟧 35%|
-|../rabotaMasiviStatistika| Y | ShemetW, Elit0o, TsDafov  |
+|../rabotaMasiviStatistika| Y | ShemetW, Elit0o, TsDafov, Aneliya05 |
 |../rabotaMasiviSreshtanoChislo| Y | TsDafov, Elit0o
 |../rabotaMasiviCharIndeks| Y | Elit0o |
 |../rabotaMasivMasivChislo| Y | TsDafov, Elit0o
