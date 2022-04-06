@@ -134,7 +134,7 @@
 |../dictionaryPhonebook| Y | Elit0o
 |../dictionaryMiner| Y | Elit0o 75%
 |../dictionaryMarket|
-|../sortedDictionaryRealni|
+|../sortedDictionaryRealni| wip | Elit0o
 |../sortedDictionaryTelefonen|
 |../linqLambdaSumMinMaxAv| Y | Elit0o
 |../linqLambdaBigNums|
