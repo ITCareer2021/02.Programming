@@ -55,12 +55,12 @@
 |../sortiraneMasiviTursene|
 |../sortiraneMasiviSlivane| wip | Elit0o
 |../sortiraneMasiviSortirane| Y | Elit0o
-|../uvodSpisuciVuvejdane|
-|../uvodSpisuciVuvejdaneRed| Y | Aneliya05
-|../uvodSpisuciImena| Y | Aneliya05
+|../uvodSpisuciVuvejdane| Y | Aneliya05 |
+|../uvodSpisuciVuvejdaneRed| Y | Aneliya05 |
+|../uvodSpisuciImena| Y | Aneliya05 |
 |../uvodSpisuciImena2|
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
-|../spisuciObhojdaneKrainosti| wip | Aneliya05
+|../spisuciObhojdaneKrainosti| wip | Aneliya05 |
 |../spisuciObhojdaneEdnakvi| 
 |../spisuciObhojdaneOburnati|
 |../spisuciManipulaciiPremahni|
