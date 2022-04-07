@@ -58,7 +58,7 @@
 |../uvodSpisuciVuvejdane| Y | Aneliya05 |
 |../uvodSpisuciVuvejdaneRed| Y | Aneliya05 |
 |../uvodSpisuciImena| Y | Aneliya05 |
-|../uvodSpisuciImena2|
+|../uvodSpisuciImena2| Y | Aneliya05 |
 |../spisuciObhojdaneChetni| Y | Elit0o, TsDafov|
 |../spisuciObhojdaneKrainosti| wip | Aneliya05 |
 |../spisuciObhojdaneEdnakvi| 
