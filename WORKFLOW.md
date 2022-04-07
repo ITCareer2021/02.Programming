@@ -113,7 +113,7 @@
 | 07.MnogomerniMasiv|🟥 7%|
 |../mnogomerniVhodIzhod| Y | Aneliya05 |
 |../mnogomerniAverage| wip | Aneliya05 |
-|../mnogomerniMin| Y | Aneliya |
+|../mnogomerniMin| Y | Aneliya05 |
 |../mnogomerniLottery|
 |../mnogomerniNazubeniPloshtadka|
 |../mnogomerniNzaubeniChess|
