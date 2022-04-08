@@ -68,7 +68,7 @@
 |../spisuciManipulaciiSlivane|
 |../spisuciManipulaciiBombichki|
 |../spisuciSortiraneChisla| Y | Aneliya05 |
-|../spisuciSortiraneKvadrati|
+|../spisuciSortiraneKvadrati| Y | Aneliya05 |
 |../spisuciSortiraneBroi| 
 |../spisuciDop12(...)
 |../spisuciDop6(...)
