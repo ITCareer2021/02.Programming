@@ -69,7 +69,7 @@
 |../spisuciManipulaciiBombichki|
 |../spisuciSortiraneChisla| Y | Aneliya05 |
 |../spisuciSortiraneKvadrati| Y | Aneliya05 |
-|../spisuciSortiraneBroi| 
+|../spisuciSortiraneBroi| Y | Aneliya05 |
 |../spisuciDop12(...)
 |../spisuciDop6(...)
 | 05.Debugging| 🟩 99% |
