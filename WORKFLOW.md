@@ -130,8 +130,8 @@
 |../mnogomerniDopBombs|
 |../mnogomerniDopMiner|
 | 08.Dictionaries |🟥 50% |
-|../dictionaryOdd| Y | Elit0o |
-|../dictionaryPhonebook| Y | Elit0o |
+|../dictionaryOdd| Y | Elit0o, Aneliya05 |
+|../dictionaryPhonebook| Y | Elit0o, Aneliya05 |
 |../dictionaryMiner| Y | Elit0o 75%
 |../dictionaryMarket|
 |../sortedDictionaryRealni| Y | Elit0o |
