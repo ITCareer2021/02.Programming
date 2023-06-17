@@ -1,4 +1,4 @@
-name: elena kerezieva
+name: Elena Kerezieva
 github user: Elit0o
 на кирилица: Елена Керезиева
 github page: https://github.com/Elit0o
